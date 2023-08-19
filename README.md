@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Vishalkumargit/Vishalkumargit/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Vishalkumargit/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 <h3 align="left">Hi 👋! Hello there!<br><br>I'm Vishal Kumar, a Systems Engineer specializing in C++, Linux, Cloud Computing, and Key Management Systems. Alongside my expertise in cybersecurity, I'm a proficient Full Stack Developer, well-versed in HTML, CSS, and JavaScript, and experienced in cloud environments like AWS and GCP.<br><br>Thank you for stopping by – looking forward to connecting with you!</h3>
 
 ###
