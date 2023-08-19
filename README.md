@@ -67,8 +67,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Vishalkumargit/Vishalkumargit/output/snake.svg" alt="Snake animation" />
-![](https://raw.githubusercontent.com/Vishalkumargit/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
